@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/teemeetopz" target="blank"><img src="https://img.shields.io/twitter/follow/teemeetopz?logo=twitter&style=for-the-badge" alt="teemeetopz" /></a> </p>
 
-- 🌱 I’m a certified **Front End Development**
+- 🌱 I’m a certified **Front-End Web Developer**
 
 - 📫 How to reach me **tekimoraa@gmail.com**
 
