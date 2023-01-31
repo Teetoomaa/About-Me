@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teetoomaa&label=Profile%20views&color=0e75b6&style=flat" alt="teetoomaa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/teemeetopz" target="blank"><img src="https://img.shields.io/twitter/follow/teemeetopz?logo=twitter&style=for-the-badge" alt="teemeetopz" /></a> </p>
-
 - 🌱 I’m a certified **Front-End Web Developer**
 
 - 📫 How to reach me **tekimoraa@gmail.com**
