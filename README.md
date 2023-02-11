@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teetoomaa&label=Profile%20views&color=0e75b6&style=flat" alt="teetoomaa" /> </p>
 
 
-- 🌱 I’m a certified **Front-End Web Developer**
+- 🌱 I’m a certified **Frontend Developer**
 
 - 📫 How to reach me **tekimoraa@gmail.com**
 
